@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreLearningPath.HelloWorld", "NetCoreLearningPath.HelloWorld\NetCoreLearningPath.HelloWorld.csproj", "{0358D779-3F31-4ACD-9DAF-0C005A0FED59}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. White.Belt", "1. White.Belt", "{F9534C95-6718-4957-A59E-1C5453A6FEAA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Yellow.Belt", "2. Yellow.Belt", "{FAA96C00-CD71-4C8D-AB4B-DFCFD6AABCBF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,6 +22,9 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0358D779-3F31-4ACD-9DAF-0C005A0FED59} = {F9534C95-6718-4957-A59E-1C5453A6FEAA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6C9B88FC-D7D0-4FFF-AA37-9B393852529A}
