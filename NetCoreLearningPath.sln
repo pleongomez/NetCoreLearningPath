@@ -19,7 +19,7 @@ Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-co
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Green.Belt", "Green.Belt", "{ACAF6BDF-33D4-47EB-93C4-D46C8773C2C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreLearningPath.NewDb", "..\NetCoreLearningPath.NewDb\NetCoreLearningPath.NewDb.csproj", "{50D61D99-9989-4289-AC07-67325BE469AB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreLearningPath.NewDb", "NetCoreLearningPath.NewDb\NetCoreLearningPath.NewDb.csproj", "{50D61D99-9989-4289-AC07-67325BE469AB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreLearningPath.ExistingDb", "NetCoreLearningPath.ExistingDb\NetCoreLearningPath.ExistingDb.csproj", "{2071D19F-735D-40D2-A1B6-29FD350146E4}"
 EndProject
