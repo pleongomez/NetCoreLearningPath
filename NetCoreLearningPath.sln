@@ -19,9 +19,13 @@ Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-co
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Green.Belt", "Green.Belt", "{ACAF6BDF-33D4-47EB-93C4-D46C8773C2C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreLearningPath.NewDb", "NetCoreLearningPath.NewDb\NetCoreLearningPath.NewDb.csproj", "{50D61D99-9989-4289-AC07-67325BE469AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCoreLearningPath.NewDb", "NetCoreLearningPath.NewDb\NetCoreLearningPath.NewDb.csproj", "{50D61D99-9989-4289-AC07-67325BE469AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreLearningPath.ExistingDb", "NetCoreLearningPath.ExistingDb\NetCoreLearningPath.ExistingDb.csproj", "{2071D19F-735D-40D2-A1B6-29FD350146E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCoreLearningPath.ExistingDb", "NetCoreLearningPath.ExistingDb\NetCoreLearningPath.ExistingDb.csproj", "{2071D19F-735D-40D2-A1B6-29FD350146E4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "JackieChan.Belt", "JackieChan.Belt", "{A7A885DB-4D30-4F43-A11A-EAE81BBC853C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreLearningPath.WebApp1", "NetCoreLearningPath.WebApp1\NetCoreLearningPath.WebApp1.csproj", "{F4518415-1021-4E7B-AF77-28A4151BA40C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -53,6 +57,10 @@ Global
 		{2071D19F-735D-40D2-A1B6-29FD350146E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2071D19F-735D-40D2-A1B6-29FD350146E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2071D19F-735D-40D2-A1B6-29FD350146E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4518415-1021-4E7B-AF77-28A4151BA40C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4518415-1021-4E7B-AF77-28A4151BA40C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4518415-1021-4E7B-AF77-28A4151BA40C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4518415-1021-4E7B-AF77-28A4151BA40C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -63,6 +71,7 @@ Global
 		{27EB98D6-1111-43DF-8846-12EA5812F0E1} = {2253D94D-191E-4044-BBC6-C0ABD810B364}
 		{50D61D99-9989-4289-AC07-67325BE469AB} = {ACAF6BDF-33D4-47EB-93C4-D46C8773C2C5}
 		{2071D19F-735D-40D2-A1B6-29FD350146E4} = {ACAF6BDF-33D4-47EB-93C4-D46C8773C2C5}
+		{F4518415-1021-4E7B-AF77-28A4151BA40C} = {A7A885DB-4D30-4F43-A11A-EAE81BBC853C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6C9B88FC-D7D0-4FFF-AA37-9B393852529A}
